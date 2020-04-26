@@ -1,6 +1,6 @@
 {
   "name": "sexplib0",
-  "version": "997dc9f",
+  "version": "v0.14.0",
   "description": "Library containing the definition of S-expressions and some base converters",
   "main": "src/sexplib0.ml",
   "scripts": {
