@@ -1,6 +1,6 @@
 {
-  "name": "%%NAME%%",
-  "version": "%%VERSION_NUM%%",
+  "name": "sexplib0",
+  "version": "997dc9f",
   "description": "Library containing the definition of S-expressions and some base converters",
   "main": "src/sexplib0.ml",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "%%PKG_REPO%%"
+    "url": "https://github.com/janestreet/sexplib0"
   },
-  "author": "%%PKG_AUTHORS%%",
-  "license": "%%PKG_LICENSE%%",
+  "author": "Jane Street Group, LLC <opensource@janestreet.com>",
+  "license": "MIT",
   "bugs": {
-    "url": "%%PKG_ISSUES%%"
+    "url": "https://github.com/janestreet/sexplib0/issues"
   },
-  "homepage": "%%PKG_HOMEPAGE%%",
+  "homepage": "https://github.com/janestreet/sexplib0",
   "dependencies": {
     "bs-platform": "^7.2.2"
   }
